@@ -1,0 +1,1 @@
+# AltServer_WinScript
