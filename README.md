@@ -39,6 +39,3 @@ $altServerPath = "C:\Program Files (x86)\AltServer\AltServer.exe"
 ## ⚠️ Notes
 - **English:** You can modify the polling interval by adjusting the `Start-Sleep -Seconds 5` line. ⏳
 - **Français:** Vous pouvez modifier l'intervalle de vérification en ajustant la ligne `Start-Sleep -Seconds 5`. ⏳
-
-## 📄 License / Licence
-MIT License 📝
